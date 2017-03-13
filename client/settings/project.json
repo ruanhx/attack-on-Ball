@@ -1,0 +1,26 @@
+{
+  "collision-matrix": [
+    [
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      true
+    ],
+    [
+      false,
+      true,
+      false
+    ]
+  ],
+  "excluded-modules": [],
+  "group-list": [
+    "player",
+    "wall",
+    "star"
+  ],
+  "start-scene": "current"
+}
